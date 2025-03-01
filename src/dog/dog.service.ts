@@ -7,10 +7,10 @@ export class DogService {
   }
 
   public introduce(): string {
-    return 'My name is REX';
+    return 'My name is REX!';
   }
 
   public modifyDetail(): string {
-    return 'You can see successfully modified Person';
+    return 'Successfully modified';
   }
 }
